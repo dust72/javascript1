@@ -2,7 +2,7 @@
 
 var express = require("express");
 
-/* teste1*/
+
 var a ;
 var app = express();
 app.use(express.static('public'));
